@@ -363,17 +363,8 @@ body{
 }
 
 #sm-banner .banner-box2{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-    text-align: center;
     background-image: url("img/banner/b10.jpg");
-    min-width: 580px;
-    height: 50vh;
-    background-size: cover;
-    background-position: center;
-    padding: 30px;
+    
 }
 
 
